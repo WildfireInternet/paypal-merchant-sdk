@@ -10,10 +10,16 @@
             "homepage": "https://github.com/paypal/merchant-sdk-php/contributors"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/WildfireInternet/paypal-core-sdk"
+        }
+    ],
     "require": {
         "php": ">=5.3.0",
         "ext-curl": "*",
-        "paypal/sdk-core-php":"3.*"
+        "paypal/sdk-core-php":"dev-master"
     },
     "autoload": {
         "psr-0": {
