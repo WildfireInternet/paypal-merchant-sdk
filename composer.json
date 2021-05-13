@@ -13,7 +13,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/WildfireInternet/paypal-core-sdk"
+            "url": "https://github.com/WildfireInternet/sdk-core-php"
         }
     ],
     "require": {
